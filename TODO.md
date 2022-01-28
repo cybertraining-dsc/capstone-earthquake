@@ -3,7 +3,7 @@
 
 - [X] Review IEEE Presentation
 - [ ] Review MLCommons 
-- [ ] Use jabref for citation management
+- [ ] Use jabref or emacs for citation management
 - [ ] Review Fox paper
 - [ ] Frequently check github
 - [ ] Read up on TFT
